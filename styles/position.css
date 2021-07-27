@@ -1,0 +1,17 @@
+.container {
+    border: 2px solid red;
+}
+
+.item {
+    border: 2px solid blue;
+    height : 200px;
+    width: 200px;
+}
+
+.item1 {
+    position:relative;
+    top:2rem;
+    left: 5rem;
+    position: sticky;
+    background-color: seagreen;
+}
